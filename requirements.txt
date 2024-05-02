@@ -1,0 +1,19 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+langchain-community
+
+# for langchain api
+langchain
+langchain-openai
+langchain_core
+python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
